@@ -1,0 +1,5 @@
+rmdir /Q/S "C:\Program Files (x86)\AIMP3\!Backup"
+rmdir /Q/S "C:\Program Files (x86)\AIMP3\Help\"
+del "C:\Program Files (x86)\AIMP3\AIMP.url"
+del "C:\Program Files (x86)\AIMP3\history.txt"
+del "C:\Program Files (x86)\AIMP3\license.rtf"
