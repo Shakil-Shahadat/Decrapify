@@ -1,0 +1,6 @@
+del "C:\Program Files\WinRAR\License.txt"
+del "C:\Program Files\WinRAR\Order.htm"
+del "C:\Program Files\WinRAR\Rar.txt"
+del "C:\Program Files\WinRAR\ReadMe.txt"
+del "C:\Program Files\WinRAR\WhatsNew.txt"
+del "C:\Program Files\WinRAR\WinRAR.chm"
