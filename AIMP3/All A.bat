@@ -1,2 +1,2 @@
-call crap.bat
-call languages.bat
+call "Crap A.bat"
+call "Languages A.bat"
